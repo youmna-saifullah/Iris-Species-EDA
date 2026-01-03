@@ -39,12 +39,8 @@ The **Iris Dataset** consists of 150 samples from three species of Iris flowers 
 * **High Correlation:** A strong positive correlation exists between petal length and petal width.
 * **Outlier Analysis:** Using the IQR method, **4 outliers** were identified in the `sepal_width` column, indicating slight variations within the species.
 
----
-
 *For any queries or feedback regarding this task, feel free to reach out!*
 
----
 
-4. **Commit changes** to save it.
 
 **Would you like me to help you format the final GitHub link or help with the next task instructions?**
