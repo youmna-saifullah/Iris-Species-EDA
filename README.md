@@ -41,6 +41,3 @@ The **Iris Dataset** consists of 150 samples from three species of Iris flowers 
 
 *For any queries or feedback regarding this task, feel free to reach out!*
 
-
-
-**Would you like me to help you format the final GitHub link or help with the next task instructions?**
