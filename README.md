@@ -1,12 +1,9 @@
----
 
 # AI/ML Internship | DeveloperHub
 
 **Author:** Youmna Saifullah
 
 **Task 1:** Exploring and Visualizing a Simple Dataset
-
----
 
 ## 📝 Project Overview
 
